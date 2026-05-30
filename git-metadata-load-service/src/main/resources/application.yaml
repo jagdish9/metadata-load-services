@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: git-metadata-load-service
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  config:
+    import: optional:configserver:http://localhost:7000

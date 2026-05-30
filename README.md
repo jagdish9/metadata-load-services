@@ -1,2 +1,2 @@
 # metadata-load-services
-crawls data from maven and github
+Crawls data from maven and GitHub
